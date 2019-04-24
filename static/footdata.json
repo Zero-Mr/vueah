@@ -1,0 +1,29 @@
+[
+    {
+        "title":"Customer Service",
+         "inner":[
+             {"text":"Delivery Information","link":"https://www.aniahaie.us/delivery-information"},
+             {"text":"Stockists","link":"https://www.aniahaie.us/delivery-information"},
+             {"text":"Returns & Exchanges","link":"https://www.aniahaie.us/delivery-information"},
+             {"text":"Jewellery Care","link":"https://www.aniahaie.us/delivery-information"},
+             {"text":"Size Guide","link":"https://www.aniahaie.us/delivery-information"}
+         ]
+    },
+    {
+        "title":"Company",
+         "inner":[
+             {"text":"Contact Us","link":"https://www.aniahaie.us/delivery-information"},
+             {"text":"About Us","link":"https://www.aniahaie.us/delivery-information"},
+             {"text":"Privacy & Security","link":"https://www.aniahaie.us/delivery-information"},
+             {"text":"Terms & Conditions","link":"https://www.aniahaie.us/delivery-information"}
+         ]
+    },
+    {
+        "title":"Never miss a beat",
+        "text":"Be the first to know about new collections, style tips, events and more.",
+        "iconlink":"https://www.facebook.com/aniahaieUS",
+        "iconlink":"https://www.facebook.com/aniahaieUS",
+        "iconlink":"https://www.facebook.com/aniahaieUS",
+        "iconlink":"https://www.facebook.com/aniahaieUS"
+    }
+]

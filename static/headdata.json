@@ -1,0 +1,11 @@
+[
+    {"link":"https://www.aniahaie.us/","imgsrc":"https://www.aniahaie.us/media/wysiwyg/home/logo.png","title":"aniahaie"},
+    [   {"text":"As Seen In Press","link":"https://www.aniahaie.us/seen-in.html","id":1},
+        {"text":"Bestsellers","link":"https://www.aniahaie.us/best-sellers.html","id":2},
+        {"text":"TRENDS","link":"https://www.aniahaie.us/trends.html","id":3},
+        {"text":"Necklaces","link":"https://www.aniahaie.us/necklaces.html","id":4},
+        {"text":"Bracelets","link":"https://www.aniahaie.us/bracelets.html","id":5},
+        {"text":"Rings","link":"https://www.aniahaie.us/rings.html","id":6},
+        {"text":"Earrings","link":"https://www.aniahaie.us/earrings.html","id":7}
+    ]
+]
